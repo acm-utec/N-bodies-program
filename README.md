@@ -1,1 +1,1 @@
-# Space-Simulator
+# N bodies program
