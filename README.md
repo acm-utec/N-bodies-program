@@ -1,1 +1,1 @@
-# N bodies program
+# N body program
